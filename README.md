@@ -15,10 +15,151 @@
 </p>
 
 <p align="center">
+  <a href="#authors-and-affiliations">Authors &amp; Affiliations</a> ·
   <a href="#about-the-survey">About the Survey</a> ·
   <a href="#highlights">Highlights</a> ·
   <a href="#taxonomy">Taxonomy</a> ·
   <a href="#image">Browse Papers</a>
+</p>
+
+<!-- Author order, numbered affiliations, and contribution markers follow the manuscript. -->
+<a id="authors-and-affiliations"></a>
+
+<h2 align="center">Authors &amp; Affiliations</h2>
+
+<p align="center">
+  <strong>80 authors · 37 institutions and organizations · Independent researchers</strong>
+</p>
+
+<p align="center">
+  Minghao&nbsp;Guo<sup>1,*,§</sup> ·
+  Qingyue&nbsp;Jiao<sup>2,*,§</sup> ·
+  Xiujin&nbsp;Liu<sup>3,*</sup> ·
+  Jianhong&nbsp;Pang<sup>4,*</sup> ·
+  Ruimeng&nbsp;Yang<sup>4,*</sup> ·
+  Naihao&nbsp;Xu<sup>2,‡</sup> ·
+  Liwei&nbsp;Che<sup>1,‡</sup> ·
+  Haochen&nbsp;Xue<sup>5,‡</sup> ·
+  Ziqi&nbsp;Wang<sup>1,‡</sup> ·
+  Xinying&nbsp;Cai<sup>1,‡</sup> ·
+  Jiaxuan&nbsp;Luo<sup>6,‡</sup> ·
+  Jiaxin&nbsp;Deng<sup>7,‡</sup> ·
+  Xuesong&nbsp;Ye<sup>9,‡</sup> ·
+  Jintao&nbsp;Qu<sup>11,‡</sup> ·
+  Wenyao&nbsp;Gao<sup>10,‡</sup> ·
+  Jingwen&nbsp;Gu<sup>8,‡</sup> ·
+  Chenyang&nbsp;Zhao<sup>12</sup> ·
+  Shichun&nbsp;Liu<sup>4</sup> ·
+  Guibin&nbsp;Zhang<sup>13</sup> ·
+  Zefang&nbsp;Liu<sup>14</sup> ·
+  Siyin&nbsp;Wang<sup>4</sup> ·
+  Wujiang&nbsp;Xu<sup>15</sup> ·
+  Danrui&nbsp;Li<sup>1</sup> ·
+  Zeru&nbsp;Shi<sup>1</sup> ·
+  Woongyeong&nbsp;Yeo<sup>18</sup> ·
+  Shuang&nbsp;Liu<sup>16</sup> ·
+  Wei-Chieh&nbsp;Jason&nbsp;Huang<sup>17</sup> ·
+  Weizhi&nbsp;Zhang<sup>17</sup> ·
+  Tianyu&nbsp;Yang<sup>2</sup> ·
+  Kangsan&nbsp;Kim<sup>18</sup> ·
+  Yebowen&nbsp;Hu<sup>19</sup> ·
+  Bowen&nbsp;Wen<sup>20</sup> ·
+  Bowen&nbsp;Jiang<sup>21</sup> ·
+  Haohao&nbsp;Su<sup>22</sup> ·
+  Ming&nbsp;Yin<sup>23</sup> ·
+  Sheldon&nbsp;Yu<sup>8</sup> ·
+  Mian&nbsp;Zhang<sup>24</sup> ·
+  Yuyan&nbsp;Chen<sup>25,26</sup> ·
+  Hanrong&nbsp;Zhang<sup>17</sup> ·
+  Kai&nbsp;Mei<sup>15</sup> ·
+  Zihao&nbsp;Zhang<sup>15</sup> ·
+  Mingyu&nbsp;Jin<sup>1</sup> ·
+  Xi&nbsp;Zhu<sup>1</sup> ·
+  Hengyi&nbsp;Wang<sup>1</sup> ·
+  Tianxin&nbsp;Wei<sup>35</sup> ·
+  Linyong&nbsp;Nan<sup>19</sup> ·
+  Zhenwen&nbsp;Liang<sup>28</sup> ·
+  Zhendong&nbsp;Chu<sup>29</sup> ·
+  Ziqi&nbsp;Huang<sup>30</sup> ·
+  Yongye&nbsp;Su<sup>31</sup> ·
+  Sixun&nbsp;Dong<sup>15</sup> ·
+  Shujian&nbsp;Liu<sup>19</sup> ·
+  Kaiqu&nbsp;Liang<sup>27</sup> ·
+  Jiaojiao&nbsp;Han<sup>32</sup> ·
+  Zhaoye&nbsp;Fei<sup>4</sup> ·
+  Kun&nbsp;Wang<sup>30</sup> ·
+  Shihan&nbsp;Dou<sup>4</sup> ·
+  Zhichun&nbsp;Guo<sup>33</sup> ·
+  Xingjian&nbsp;Diao<sup>34</sup> ·
+  Zeqi&nbsp;Gu<sup>38</sup> ·
+  Heng&nbsp;Wang<sup>35</sup> ·
+  Tao&nbsp;Feng<sup>35</sup> ·
+  Qian&nbsp;Cheng<sup>35</sup> ·
+  Hamid&nbsp;Palangi<sup>36</sup> ·
+  Silei&nbsp;Xu<sup>19</sup> ·
+  Xi&nbsp;Yun<sup>19</sup> ·
+  Yi&nbsp;Zhu<sup>37</sup> ·
+  Shilong&nbsp;Liu<sup>27</sup> ·
+  Qingsong&nbsp;Wen<sup>29</sup> ·
+  Sung&nbsp;Ju&nbsp;Hwang<sup>18</sup> ·
+  Zuxuan&nbsp;Wu<sup>4</sup> ·
+  Yu-Gang&nbsp;Jiang<sup>4</sup> ·
+  Yiyu&nbsp;Shi<sup>2</sup> ·
+  Dimitris&nbsp;N.&nbsp;Metaxas<sup>1</sup> ·
+  Jiaxuan&nbsp;You<sup>35</sup> ·
+  Julian&nbsp;McAuley<sup>8</sup> ·
+  Mengdi&nbsp;Wang<sup>27</sup> ·
+  Jiawei&nbsp;Han<sup>35</sup> ·
+  Philip&nbsp;S.&nbsp;Yu<sup>17</sup> ·
+  Ziyi&nbsp;Ye<sup>4,†,§</sup>
+</p>
+
+<p align="center">
+  <sup>*</sup> Equal first authors &nbsp;·&nbsp;
+  <sup>‡</sup> Core authors &nbsp;·&nbsp;
+  <sup>†</sup> Corresponding author &nbsp;·&nbsp;
+  <sup>§</sup> Project organizers
+</p>
+
+<p align="center">
+  <sup>1</sup>&nbsp;<strong>Rutgers</strong> ·
+  <sup>2</sup>&nbsp;<strong>Notre&nbsp;Dame</strong> ·
+  <sup>3</sup>&nbsp;<strong>Michigan</strong> ·
+  <sup>4</sup>&nbsp;<strong>Fudan</strong> ·
+  <sup>5</sup>&nbsp;<strong>MBZUAI</strong> ·
+  <sup>6</sup>&nbsp;<strong>JHU</strong> ·
+  <sup>7</sup>&nbsp;<strong>Peer&nbsp;AI</strong> ·
+  <sup>8</sup>&nbsp;<strong>UC&nbsp;San&nbsp;Diego</strong><br>
+  <sup>9</sup>&nbsp;<strong>Georgia&nbsp;Tech</strong> ·
+  <sup>10</sup>&nbsp;<strong>SemiAnalysis</strong> ·
+  <sup>11</sup>&nbsp;<strong>USC</strong> ·
+  <sup>12</sup>&nbsp;<strong>LMSYS&nbsp;Org</strong> ·
+  <sup>13</sup>&nbsp;<strong>NUS</strong> ·
+  <sup>14</sup>&nbsp;<strong>Capital&nbsp;One</strong> ·
+  <sup>15</sup>&nbsp;<strong>Independent&nbsp;Researcher</strong><br>
+  <sup>16</sup>&nbsp;<strong>CMU</strong> ·
+  <sup>17</sup>&nbsp;<strong>UIC</strong> ·
+  <sup>18</sup>&nbsp;<strong>KAIST</strong> ·
+  <sup>19</sup>&nbsp;<strong>Zoom</strong> ·
+  <sup>20</sup>&nbsp;<strong>NVIDIA</strong> ·
+  <sup>21</sup>&nbsp;<strong>Penn</strong> ·
+  <sup>22</sup>&nbsp;<strong>MSU</strong> ·
+  <sup>23</sup>&nbsp;<strong>Duke</strong> ·
+  <sup>24</sup>&nbsp;<strong>UT&nbsp;Dallas</strong><br>
+  <sup>25</sup>&nbsp;<strong>Cornell</strong> ·
+  <sup>26</sup>&nbsp;<strong>ModelsLive</strong> ·
+  <sup>27</sup>&nbsp;<strong>Princeton</strong> ·
+  <sup>28</sup>&nbsp;<strong>Apodex</strong> ·
+  <sup>29</sup>&nbsp;<strong>Squirrel&nbsp;AI</strong> ·
+  <sup>30</sup>&nbsp;<strong>NTU</strong> ·
+  <sup>31</sup>&nbsp;<strong>Purdue</strong><br>
+  <sup>32</sup>&nbsp;<strong>NJIT</strong> ·
+  <sup>33</sup>&nbsp;<strong>TikTok</strong> ·
+  <sup>34</sup>&nbsp;<strong>Dartmouth</strong> ·
+  <sup>35</sup>&nbsp;<strong>UIUC</strong> ·
+  <sup>36</sup>&nbsp;<strong>Washington</strong> ·
+  <sup>37</sup>&nbsp;<strong>Humani&nbsp;Labs</strong> ·
+  <sup>38</sup>&nbsp;<strong>Meta</strong>
 </p>
 
 ## About the Survey
@@ -35,6 +176,7 @@ This repository accompanies the survey with a curated reading list and annotated
 
 ## Table of Contents
 
+- [Authors & Affiliations](#authors-and-affiliations)
 - [About the Survey](#about-the-survey)
 - [Highlights](#highlights)
 - [Taxonomy](#taxonomy)
