@@ -122,44 +122,44 @@
 </p>
 
 <p align="center">
-  <sup>1</sup>&nbsp;<strong>Rutgers</strong> ·
-  <sup>2</sup>&nbsp;<strong>Notre&nbsp;Dame</strong> ·
-  <sup>3</sup>&nbsp;<strong>Michigan</strong> ·
-  <sup>4</sup>&nbsp;<strong>Fudan</strong> ·
-  <sup>5</sup>&nbsp;<strong>MBZUAI</strong> ·
-  <sup>6</sup>&nbsp;<strong>JHU</strong> ·
-  <sup>7</sup>&nbsp;<strong>Peer&nbsp;AI</strong> ·
-  <sup>8</sup>&nbsp;<strong>UC&nbsp;San&nbsp;Diego</strong><br>
-  <sup>9</sup>&nbsp;<strong>Georgia&nbsp;Tech</strong> ·
-  <sup>10</sup>&nbsp;<strong>SemiAnalysis</strong> ·
-  <sup>11</sup>&nbsp;<strong>USC</strong> ·
-  <sup>12</sup>&nbsp;<strong>LMSYS&nbsp;Org</strong> ·
-  <sup>13</sup>&nbsp;<strong>NUS</strong> ·
-  <sup>14</sup>&nbsp;<strong>Capital&nbsp;One</strong> ·
-  <sup>15</sup>&nbsp;<strong>Independent&nbsp;Researcher</strong><br>
-  <sup>16</sup>&nbsp;<strong>CMU</strong> ·
-  <sup>17</sup>&nbsp;<strong>UIC</strong> ·
-  <sup>18</sup>&nbsp;<strong>KAIST</strong> ·
-  <sup>19</sup>&nbsp;<strong>Zoom</strong> ·
-  <sup>20</sup>&nbsp;<strong>NVIDIA</strong> ·
-  <sup>21</sup>&nbsp;<strong>Penn</strong> ·
-  <sup>22</sup>&nbsp;<strong>MSU</strong> ·
-  <sup>23</sup>&nbsp;<strong>Duke</strong> ·
-  <sup>24</sup>&nbsp;<strong>UT&nbsp;Dallas</strong><br>
-  <sup>25</sup>&nbsp;<strong>Cornell</strong> ·
-  <sup>26</sup>&nbsp;<strong>ModelsLive</strong> ·
-  <sup>27</sup>&nbsp;<strong>Princeton</strong> ·
-  <sup>28</sup>&nbsp;<strong>Apodex</strong> ·
-  <sup>29</sup>&nbsp;<strong>Squirrel&nbsp;AI</strong> ·
-  <sup>30</sup>&nbsp;<strong>NTU</strong> ·
-  <sup>31</sup>&nbsp;<strong>Purdue</strong><br>
-  <sup>32</sup>&nbsp;<strong>NJIT</strong> ·
-  <sup>33</sup>&nbsp;<strong>TikTok</strong> ·
-  <sup>34</sup>&nbsp;<strong>Dartmouth</strong> ·
-  <sup>35</sup>&nbsp;<strong>UIUC</strong> ·
-  <sup>36</sup>&nbsp;<strong>Washington</strong> ·
-  <sup>37</sup>&nbsp;<strong>Humani&nbsp;Labs</strong> ·
-  <sup>38</sup>&nbsp;<strong>Meta</strong>
+  <sup>1</sup>&nbsp;<img src="assets/institutions/rutgers.png" alt="Rutgers logo" width="29" height="26" align="absmiddle">&nbsp;<strong>Rutgers</strong> &nbsp;·&nbsp;
+  <sup>2</sup>&nbsp;<img src="assets/institutions/nd.png" alt="Notre Dame logo" width="21" height="26" align="absmiddle">&nbsp;<strong>Notre&nbsp;Dame</strong> &nbsp;·&nbsp;
+  <sup>3</sup>&nbsp;<img src="assets/institutions/michigan.png" alt="Michigan logo" width="36" height="26" align="absmiddle">&nbsp;<strong>Michigan</strong> &nbsp;·&nbsp;
+  <sup>4</sup>&nbsp;<img src="assets/institutions/fudan.png" alt="Fudan logo" width="25" height="26" align="absmiddle">&nbsp;<strong>Fudan</strong> &nbsp;·&nbsp;
+  <sup>5</sup>&nbsp;<img src="assets/institutions/mbzuai.png" alt="MBZUAI logo" width="26" height="26" align="absmiddle">&nbsp;<strong>MBZUAI</strong><br><br>
+  <sup>6</sup>&nbsp;<img src="assets/institutions/jhu.png" alt="JHU logo" width="24" height="26" align="absmiddle">&nbsp;<strong>JHU</strong> &nbsp;·&nbsp;
+  <sup>7</sup>&nbsp;<img src="assets/institutions/peer.png" alt="Peer AI logo" width="26" height="26" align="absmiddle">&nbsp;<strong>Peer&nbsp;AI</strong> &nbsp;·&nbsp;
+  <sup>8</sup>&nbsp;<img src="assets/institutions/ucsd.png" alt="UC San Diego logo" width="26" height="26" align="absmiddle">&nbsp;<strong>UC&nbsp;San&nbsp;Diego</strong> &nbsp;·&nbsp;
+  <sup>9</sup>&nbsp;<img src="assets/institutions/gatech.png" alt="Georgia Tech logo" width="42" height="26" align="absmiddle">&nbsp;<strong>Georgia&nbsp;Tech</strong> &nbsp;·&nbsp;
+  <sup>10</sup>&nbsp;<img src="assets/institutions/semianalysis.png" alt="SemiAnalysis logo" width="25" height="26" align="absmiddle">&nbsp;<strong>SemiAnalysis</strong><br><br>
+  <sup>11</sup>&nbsp;<img src="assets/institutions/usc.png" alt="USC logo" width="26" height="26" align="absmiddle">&nbsp;<strong>USC</strong> &nbsp;·&nbsp;
+  <sup>12</sup>&nbsp;<img src="assets/institutions/lmsys.png" alt="LMSYS Org logo" width="42" height="10" align="absmiddle">&nbsp;<strong>LMSYS&nbsp;Org</strong> &nbsp;·&nbsp;
+  <sup>13</sup>&nbsp;<img src="assets/institutions/nus.png" alt="NUS logo" width="20" height="26" align="absmiddle">&nbsp;<strong>NUS</strong> &nbsp;·&nbsp;
+  <sup>14</sup>&nbsp;<img src="assets/institutions/capitalone.png" alt="Capital One logo" width="29" height="26" align="absmiddle">&nbsp;<strong>Capital&nbsp;One</strong> &nbsp;·&nbsp;
+  <sup>15</sup>&nbsp;<strong>Independent&nbsp;Researcher</strong><br><br>
+  <sup>16</sup>&nbsp;<img src="assets/institutions/cmu.png" alt="CMU logo" width="26" height="26" align="absmiddle">&nbsp;<strong>CMU</strong> &nbsp;·&nbsp;
+  <sup>17</sup>&nbsp;<img src="assets/institutions/uic.png" alt="UIC logo" width="26" height="26" align="absmiddle">&nbsp;<strong>UIC</strong> &nbsp;·&nbsp;
+  <sup>18</sup>&nbsp;<img src="assets/institutions/kaist.png" alt="KAIST logo" width="26" height="26" align="absmiddle">&nbsp;<strong>KAIST</strong> &nbsp;·&nbsp;
+  <sup>19</sup>&nbsp;<img src="assets/institutions/zoom.png" alt="Zoom logo" width="26" height="26" align="absmiddle">&nbsp;<strong>Zoom</strong> &nbsp;·&nbsp;
+  <sup>20</sup>&nbsp;<img src="assets/institutions/nvidia.png" alt="NVIDIA logo" width="39" height="26" align="absmiddle">&nbsp;<strong>NVIDIA</strong><br><br>
+  <sup>21</sup>&nbsp;<img src="assets/institutions/upenn.png" alt="Penn logo" width="23" height="26" align="absmiddle">&nbsp;<strong>Penn</strong> &nbsp;·&nbsp;
+  <sup>22</sup>&nbsp;<img src="assets/institutions/msu.png" alt="MSU logo" width="23" height="26" align="absmiddle">&nbsp;<strong>MSU</strong> &nbsp;·&nbsp;
+  <sup>23</sup>&nbsp;<img src="assets/institutions/duke.png" alt="Duke logo" width="26" height="26" align="absmiddle">&nbsp;<strong>Duke</strong> &nbsp;·&nbsp;
+  <sup>24</sup>&nbsp;<img src="assets/institutions/utd.png" alt="UT Dallas logo" width="26" height="26" align="absmiddle">&nbsp;<strong>UT&nbsp;Dallas</strong> &nbsp;·&nbsp;
+  <sup>25</sup>&nbsp;<img src="assets/institutions/cornell.png" alt="Cornell logo" width="26" height="26" align="absmiddle">&nbsp;<strong>Cornell</strong><br><br>
+  <sup>26</sup>&nbsp;<img src="assets/institutions/modelslive.png" alt="ModelsLive logo" width="28" height="26" align="absmiddle">&nbsp;<strong>ModelsLive</strong> &nbsp;·&nbsp;
+  <sup>27</sup>&nbsp;<img src="assets/institutions/princeton.png" alt="Princeton logo" width="22" height="26" align="absmiddle">&nbsp;<strong>Princeton</strong> &nbsp;·&nbsp;
+  <sup>28</sup>&nbsp;<img src="assets/institutions/apodex.png" alt="Apodex logo" width="26" height="26" align="absmiddle">&nbsp;<strong>Apodex</strong> &nbsp;·&nbsp;
+  <sup>29</sup>&nbsp;<img src="assets/institutions/squirrel.png" alt="Squirrel AI logo" width="24" height="26" align="absmiddle">&nbsp;<strong>Squirrel&nbsp;AI</strong> &nbsp;·&nbsp;
+  <sup>30</sup>&nbsp;<img src="assets/institutions/ntu.png" alt="NTU logo" width="20" height="26" align="absmiddle">&nbsp;<strong>NTU</strong><br><br>
+  <sup>31</sup>&nbsp;<img src="assets/institutions/purdue.png" alt="Purdue logo" width="42" height="23" align="absmiddle">&nbsp;<strong>Purdue</strong> &nbsp;·&nbsp;
+  <sup>32</sup>&nbsp;<img src="assets/institutions/njit.png" alt="NJIT logo" width="42" height="19" align="absmiddle">&nbsp;<strong>NJIT</strong> &nbsp;·&nbsp;
+  <sup>33</sup>&nbsp;<img src="assets/institutions/tiktok.png" alt="TikTok logo" width="23" height="26" align="absmiddle">&nbsp;<strong>TikTok</strong> &nbsp;·&nbsp;
+  <sup>34</sup>&nbsp;<img src="assets/institutions/dartmouth.png" alt="Dartmouth logo" width="26" height="26" align="absmiddle">&nbsp;<strong>Dartmouth</strong><br><br>
+  <sup>35</sup>&nbsp;<img src="assets/institutions/uiuc.png" alt="UIUC logo" width="18" height="26" align="absmiddle">&nbsp;<strong>UIUC</strong> &nbsp;·&nbsp;
+  <sup>36</sup>&nbsp;<img src="assets/institutions/uw.png" alt="Washington logo" width="39" height="26" align="absmiddle">&nbsp;<strong>Washington</strong> &nbsp;·&nbsp;
+  <sup>37</sup>&nbsp;<img src="assets/institutions/humani.png" alt="Humani Labs logo" width="26" height="26" align="absmiddle">&nbsp;<strong>Humani&nbsp;Labs</strong> &nbsp;·&nbsp;
+  <sup>38</sup>&nbsp;<img src="assets/institutions/meta.png" alt="Meta logo" width="39" height="26" align="absmiddle">&nbsp;<strong>Meta</strong>
 </p>
 
 ## About the Survey
