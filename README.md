@@ -6,6 +6,21 @@
   <img src="banner.png" alt="Seeing, Maintaining, and Learning: the evolution of multimodal agent memory, from multimodal experience through memory representation and management to more capable agents" width="100%">
 </p>
 
+<p align="center">
+  <strong>How multimodal agents represent experience, maintain memory, and learn from feedback.</strong>
+</p>
+
+<p align="center">
+  <strong>296 architecture records · 83 benchmark and evaluation resources · 5 modality categories</strong>
+</p>
+
+<p align="center">
+  <a href="#about-the-survey">About the Survey</a> ·
+  <a href="#highlights">Highlights</a> ·
+  <a href="#taxonomy">Taxonomy</a> ·
+  <a href="#image">Browse Papers</a>
+</p>
+
 <!-- Author order, numbered affiliations, and contribution markers follow the manuscript. -->
 <p align="center">
   Minghao&nbsp;Guo<sup>1,*,§</sup> ·
@@ -136,21 +151,6 @@
   <sup>36</sup>&nbsp;<img src="assets/institutions/uw.png" alt="Washington logo" width="39" height="26" align="absmiddle">&nbsp;<strong>Washington</strong> &nbsp;·&nbsp;
   <sup>37</sup>&nbsp;<img src="assets/institutions/humani.png" alt="Humani Labs logo" width="26" height="26" align="absmiddle">&nbsp;<strong>Humani&nbsp;Labs</strong> &nbsp;·&nbsp;
   <sup>38</sup>&nbsp;<img src="assets/institutions/meta.png" alt="Meta logo" width="39" height="26" align="absmiddle">&nbsp;<strong>Meta</strong>
-</p>
-
-<p align="center">
-  <strong>How multimodal agents represent experience, maintain memory, and learn from feedback.</strong>
-</p>
-
-<p align="center">
-  <strong>296 architecture records · 83 benchmark and evaluation resources · 5 modality categories</strong>
-</p>
-
-<p align="center">
-  <a href="#about-the-survey">About the Survey</a> ·
-  <a href="#highlights">Highlights</a> ·
-  <a href="#taxonomy">Taxonomy</a> ·
-  <a href="#image">Browse Papers</a>
 </p>
 
 ## About the Survey
