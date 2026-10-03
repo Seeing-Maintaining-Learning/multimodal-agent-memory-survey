@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <strong><a href="https://openreview.net/forum?id=5u8ag6LBFH">View the paper on OpenReview</a></strong>
+</p>
+
+<p align="center">
   <a href="#about-the-survey">About the Survey</a> ·
   <a href="#highlights">Highlights</a> ·
   <a href="#taxonomy">Taxonomy</a> ·
